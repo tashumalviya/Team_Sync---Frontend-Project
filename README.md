@@ -8,7 +8,7 @@ A modern and responsive **Employee Management System Frontend** built with **Rea
 
 ## 🚀 Live Demo
 
-🔗 team-sync-frontend-project.vercel.app
+🔗 https://vercel.com/malviyatashu-9511s-projects/team-sync-frontend-project
 
 ---
 
