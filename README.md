@@ -8,32 +8,32 @@ A modern and responsive **Employee Management System Frontend** built with **Rea
 
 ## 🚀 Live Demo
 
-🔗 Add your Vercel deployment link here
+🔗 team-sync-frontend-project.vercel.app
 
 ---
 
-## 📂 GitHub Repository
+## GitHub Repository
 
 🔗 https://github.com/tashumalviya/Team_Sync---Frontend-Project
 
 ---
 
-## ✨ Features
+## Features
 
-- 🔐 Login & Registration UI
-- 👥 Employee Management
-- 🏢 Department Management
-- 📋 Task Management
-- 📅 Attendance Management
-- 💬 Chat Module
-- 👤 User Profile
-- ⚙️ Settings Module
-- 🌙 Dark & Light Theme
-- 📱 Fully Responsive Design
+-  Login & Registration UI
+-  Employee Management
+-  Department Management
+-  Task Management
+-  Attendance Management
+-  Chat Module
+-  User Profile
+-  Settings Module
+-  Dark & Light Theme
+-  Fully Responsive Design
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 - React.js
@@ -54,7 +54,7 @@ A modern and responsive **Employee Management System Frontend** built with **Rea
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 ### Clone Repository
 
@@ -110,7 +110,7 @@ Import the SQL file into MySQL before running the backend.
 ---
 
 
-## 👩‍💻 Author
+## Author
 
 **Tashu Malviya**
 
